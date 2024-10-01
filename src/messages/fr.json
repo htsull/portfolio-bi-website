@@ -1,0 +1,27 @@
+{
+	"Index": {
+		"title": "Salut le monde!"
+	},
+	"MenuItems": {
+		"Home": {
+			"label": "Accueil",
+			"href": "/",
+			"id": ""
+		},
+		"Resume": {
+			"label": "CV",
+			"href": "/resume",
+			"id": ""
+		},
+		"Projects": {
+			"label": "projets",
+			"href": "/projects",
+			"id": ""
+		},
+		"Contacts": {
+			"label": "contact",
+			"href": "/contact",
+			"id": ""
+		}
+	}
+}

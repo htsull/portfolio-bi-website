@@ -1,0 +1,27 @@
+{
+	"Index": {
+		"title": "Hello world!"
+	},
+	"MenuItems": {
+		"Home": {
+			"label": "home",
+			"href": "/",
+			"id": ""
+		},
+		"Resume": {
+			"label": "resume",
+			"href": "/resume",
+			"id": ""
+		},
+		"Projects": {
+			"label": "projects",
+			"href": "/projects",
+			"id": ""
+		},
+		"Contacts": {
+			"label": "contact",
+			"href": "/contact",
+			"id": ""
+		}
+	}
+}
