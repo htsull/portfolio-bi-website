@@ -18,11 +18,7 @@
       "assets": [],
       "env": {
         "__NEXT_BUILD_ID": "development",
-<<<<<<< HEAD
-        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "JjcLNg6fwk0jLUFDS8Fm0fTNGgXeoqc6xM/B2q6/+Us="
-=======
-        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "EPAn+skUA5vnahl27ybPaooM6EcTWi8//tSMCeHrW3w="
->>>>>>> parent of 30419f7 (update)
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "H97RF34FPbS094Iz8lRLNq4z9tF7Y5F59HLgyuCE74g="
       }
     }
   },

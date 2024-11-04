@@ -6,9 +6,10 @@ import { NextIntlClientProvider } from 'next-intl'
 import { getMessages } from 'next-intl/server'
 import Providers from '@/components/Providers'
 import { cn } from '@/utils/cn'
-import Header from '@/components/Header'
-import Footer from '@/components/Footer'
+
 import { Toaster } from '@/components/ui/toaster'
+import Footer from '@/components/sections/footer/Footer'
+import Header from '@/components/sections/header/Header'
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-sans' })
 const playfair = Playfair_Display({
