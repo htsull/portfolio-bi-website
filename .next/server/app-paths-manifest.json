@@ -1,5 +1,10 @@
 {
+<<<<<<< HEAD
+  "/icon.png/route": "app/icon.png/route.js",
+  "/[locale]/page": "app/[locale]/page.js"
+=======
   "/[locale]/page": "app/[locale]/page.js",
   "/[locale]/contact/page": "app/[locale]/contact/page.js",
   "/[locale]/about/page": "app/[locale]/about/page.js"
+>>>>>>> parent of 30419f7 (update)
 }
